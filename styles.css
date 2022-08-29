@@ -1,0 +1,70 @@
+body {
+    background-color: black;
+
+}
+
+#PG {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    width: 500px;
+    height: 530px;
+    background-color: #1F2937;
+}
+
+#h11 {
+    margin: 0px auto auto 30px;
+    padding-top: 100px;
+    color: white;
+}
+
+#h12 {
+    padding-left: 30px;
+    color: #4ADF86;
+}
+
+#bruh {
+    color: white;
+    padding-left: 30px;
+}
+
+button {
+    color: white;
+    background-color: #4ADF86;
+    margin: 30px;
+}
+
+#line { 
+    position: absolute;
+
+    width: 446px;
+    height: 0px;
+    left: 707px;
+    top: 361px;
+    border: 1px solid #2F3E53;
+}
+
+#ps1 {
+    text-align: center;
+    color: #4ADF86;
+    position: absolute;
+    width: 211px;
+    height: 39px;
+    left: 950px;
+    top: 396px;
+    background: #273549;
+    border-radius: 6px;
+}
+
+#ps2 {
+    text-align: center;
+    color: #4ADF86;
+    position: absolute;
+
+    width: 211px;
+    height: 39px;
+    left: 700px;
+    top: 396px;
+    background: #273549;
+    border-radius: 6px;
+}
